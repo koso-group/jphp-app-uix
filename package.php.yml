@@ -1,0 +1,11 @@
+name: jphp-app-uix
+version: 0.0.1
+description: The jphp UIx Application Support Library
+deps:
+  jphp-core: '*'
+  jphp-zend-ext: '*'
+  
+  jphp-app: '*'
+  
+sources:
+- src-php
